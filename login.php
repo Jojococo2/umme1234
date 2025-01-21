@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        /* CSS to color the asterisk */
+        
         .compulsory-star {
-            color: red; /* You can change this to any color */
-            font-weight: bold; /* Optional: to make the asterisk bold */
+            color: red; 
+            font-weight: bold;
         }
         </style>
 </head>
